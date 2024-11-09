@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VEML7700Sample", "VEML7700Sample.csproj", "{F3613013-F8AD-4ABA-859A-41A9690D9FF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3613013-F8AD-4ABA-859A-41A9690D9FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3613013-F8AD-4ABA-859A-41A9690D9FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3613013-F8AD-4ABA-859A-41A9690D9FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3613013-F8AD-4ABA-859A-41A9690D9FF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E09F503-C152-4BDB-AFAE-6F30FC908AF5}
+	EndGlobalSection
+EndGlobal
