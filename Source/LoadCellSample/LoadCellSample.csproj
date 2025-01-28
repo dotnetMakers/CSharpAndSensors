@@ -9,6 +9,7 @@
   </PropertyGroup>
     <ItemGroup>
         <PackageReference Include="Meadow.Foundation.Graphics.MicroLayout" Version="*" />
+        <PackageReference Include="Meadow.Foundation.Sensors.LoadCell.Nau7802" Version="2.0.1.2" />
         <PackageReference Include="YoshiMaker.YoshiPi" Version="*" />
     </ItemGroup>
     <ItemGroup>
