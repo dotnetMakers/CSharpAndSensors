@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThermistorSample", "ThermistorSample.csproj", "{62B2F31D-85D9-4A12-BB05-6235B24EC593}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62B2F31D-85D9-4A12-BB05-6235B24EC593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62B2F31D-85D9-4A12-BB05-6235B24EC593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62B2F31D-85D9-4A12-BB05-6235B24EC593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62B2F31D-85D9-4A12-BB05-6235B24EC593}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3B7E0AC-EF85-4A98-BCBF-1BBAC11165ED}
+	EndGlobalSection
+EndGlobal
