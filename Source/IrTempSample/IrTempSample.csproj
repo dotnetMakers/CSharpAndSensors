@@ -9,7 +9,6 @@
   </PropertyGroup>
     <ItemGroup>
         <PackageReference Include="Meadow.Foundation.Graphics.MicroLayout" Version="*" />
-        <PackageReference Include="Meadow.Foundation.Sensors.Temperature.Thermistor" Version="2.1.0.1" />
         <PackageReference Include="YoshiMaker.YoshiPi" Version="*" />
     </ItemGroup>
     <ItemGroup>
